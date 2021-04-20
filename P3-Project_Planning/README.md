@@ -6,14 +6,19 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
-### Wireframes
+### Wireframes:
+- Sign In Page
+- Home Page/Evemt Listing page
+- Applicant/Volunteer Event Selection Page
+- Search Page
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Link to Group 6 wireframe diagrams: https://docs.google.com/drawings/d/1Fk87ea0rhbnDMJIlY_AOK3nsXGxQtkSnDLSQaX0atBo/edit
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Link to my Trello board: https://trello.com/b/a2FYGKyz/event-planning-project
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+https://github.com/bidaims/liftoff-assignments/tree/master/P3-Project_Planning
